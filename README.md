@@ -1,1 +1,1 @@
-Creation of my Portfolio by using only HTML and CSS.
+Creation of visit card by using only HTML and CSS.
